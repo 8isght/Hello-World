@@ -1,1 +1,1 @@
-console.log("Halo dunia");
+const halo = "Halo Dunia"
